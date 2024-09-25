@@ -1,10 +1,10 @@
 # Jamie J. Seol 🏳️‍🌈
 
-🔬 &nbsp; AI Researcher
-
-🎓 &nbsp; B.S. in Math, CS @ Yonsei Univ. 🦅
+🔬 &nbsp; PostDoc @ KAIST 🪿
 
 ✏️ &nbsp; Ph.D in CSE @ SNU 🪐
+
+🎓 &nbsp; B.S. in Math, CS @ Yonsei Univ. 🦅
 
 ---
 
