@@ -1,4 +1,6 @@
-# Jamie J. Seol 🏳️‍🌈
+# Jinseok Seol 🏳️‍🌈
+
+a.k.a. Jamie
 
 🔬 &nbsp; PostDoc @ KAIST 🪿
 
