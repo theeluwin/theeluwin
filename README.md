@@ -2,7 +2,7 @@
 
 a.k.a. Jamie
 
-🔬 &nbsp; PostDoc @ KAIST 🪿
+🔬 &nbsp; PostDoc @ KAIST XAIC 🪿
 
 ✏️ &nbsp; Ph.D in CSE @ SNU 🪐
 
