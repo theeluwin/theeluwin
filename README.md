@@ -1,13 +1,19 @@
 # Jinseok Seol 🏳️‍🌈
 
-a.k.a. Jamie
+a.k.a. Jamie, [@theeluwin](https://twitter.com/theeluwin)
 
-🔬 &nbsp; PostDoc @ KAIST XAIC 🪿
+🏫 &nbsp; Assistant Professor @ **Dankook Univ.** 🐻
 
-✏️ &nbsp; Ph.D in CSE @ SNU 🪐
+🔬 &nbsp; PostDoc @ **KAIST** 🪿
 
-🎓 &nbsp; B.S. in Math, CS @ Yonsei Univ. 🦅
+✏️ &nbsp; Ph.D in CSE @ **SNU** 🪐
+
+🎓 &nbsp; B.S. in Math, CS @ **Yonsei Univ.** 🦅
 
 ---
 
-🔗 &nbsp; [CV](https://theeluwin.github.io)
+🔗 &nbsp; CV (WIP)
+
+🔗 &nbsp; [blog](https://theeluwin.github.io)
+
+🔗 &nbsp; [youtube](https://www.youtube.com/@theeluwin)
