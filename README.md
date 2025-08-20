@@ -14,6 +14,8 @@ a.k.a. Jamie, [@theeluwin](https://twitter.com/theeluwin)
 
 🔗 &nbsp; CV (WIP)
 
-🔗 &nbsp; [blog](https://theeluwin.github.io)
+🔗 &nbsp; [Blog](https://theeluwin.github.io)
 
-🔗 &nbsp; [youtube](https://www.youtube.com/@theeluwin)
+🔗 &nbsp; [YouTube](https://www.youtube.com/@theeluwin)
+
+🔗 &nbsp; [Google Scholar](https://scholar.google.com/citations?user=V7niLDoAAAAJ)
