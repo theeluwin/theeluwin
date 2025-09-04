@@ -12,7 +12,7 @@ a.k.a. Jamie, [@theeluwin](https://twitter.com/theeluwin)
 
 ---
 
-🔗 &nbsp; CV (WIP)
+🔗 &nbsp; [CV](https://theeluwin.github.io/pdfs/CV.pdf)
 
 🔗 &nbsp; [Blog](https://theeluwin.github.io)
 
